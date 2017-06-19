@@ -6,3 +6,5 @@ I am in branch one
 
 
 Merging can be a problem.
+
+Changed file in local
