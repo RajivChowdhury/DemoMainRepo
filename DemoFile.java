@@ -25,5 +25,9 @@ public void Func2(int a, int b){
 	pass;
 }
 
+public void Func1(int a, int b){
+	pass;
+}
+
 
 
