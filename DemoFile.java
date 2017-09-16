@@ -13,7 +13,7 @@ public void multiply(int a, int b){
 	pass;
 }
 
-public void squareroot(int a, int b){
+public void divide(int a, int b){
 	pass;
 }
 
