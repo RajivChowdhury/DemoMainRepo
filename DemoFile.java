@@ -37,3 +37,8 @@ public void Func5(int a, int b){
 	pass;
 }
 
+public void Func6(int a, int b){
+
+	pass;
+}
+
