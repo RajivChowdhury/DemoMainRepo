@@ -1,20 +1,20 @@
 public void add(int a, int b){
 
-	pass;
+	return a+b;
 }
 
 
 public void subtract(int a, int b){
-	pass;
+	return a - b;
 }
 
 
 public void multiply(int a, int b){
-	pass;
+	return a * b;
 }
 
 public void divide(int a, int b){
-	pass;
+	return a / b;
 }
 
 public void squareroot(int a, int b){
