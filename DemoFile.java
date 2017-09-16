@@ -29,3 +29,7 @@ public void Func3(int a, int b){
 	pass;
 }
 
+public void Func4(int a, int b){
+	pass;
+}
+
