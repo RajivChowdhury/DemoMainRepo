@@ -12,3 +12,7 @@ public void subtract(int a, int b){
 public void multiply(int a, int b){
 	pass;
 }
+
+public void squareroot(int a, int b){
+	pass;
+}
