@@ -30,7 +30,7 @@ public void Func1(int a, int b){
 }
 
 public void UserFunc(int a, int b){
-	pass;
+	return func2(a,b);
 }
 
 
