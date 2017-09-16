@@ -29,5 +29,9 @@ public void Func1(int a, int b){
 	pass;
 }
 
+public void UserFunc(int a, int b){
+	pass;
+}
+
 
 
