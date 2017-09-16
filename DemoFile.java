@@ -21,5 +21,9 @@ public void squareroot(int a, int b){
 	pass;
 }
 
+public void Func2(int a, int b){
+	pass;
+}
+
 
 
